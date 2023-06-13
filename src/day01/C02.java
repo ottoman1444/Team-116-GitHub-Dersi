@@ -38,7 +38,7 @@ public class C02 {
                GitHub'da yeni bir repository olustudugumuzda
                bir kereye mahsus olarak ilk kullanimda local repo ile
                remote repo arasinda baglanti kurmamiz gerekir
-
-
+cvc
+cxvxcvxcvxcv
   */
 }
